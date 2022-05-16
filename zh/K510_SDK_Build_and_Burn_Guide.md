@@ -108,7 +108,6 @@ MX2_DEV_0106-02e87077-20220428-153936CST-xxxxx-server
 ```
 
 启动完成以后，在shell终端输入如下可以查看 sdk版本信息：
-
 ```shell
 cat /etc/version/release_version
 #############SDK VERSION############################################
